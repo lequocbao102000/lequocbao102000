@@ -1,13 +1,13 @@
-### 👋 About Me 
+### 👋 General Information
 
 &nbsp;My full name is LE QUOC BAO\
 &nbsp;Date of birth: 10-10-2000
 	
  💡&nbsp;  I like to explore new technologies and software.\
- ✍&nbsp; I usually spend time to learn a new language.\
- 💼&nbsp; I'm currently studying Software Technology at Ho Chi Minh City University of Food Industry.\
- ⏱&nbsp; In my free time, I learn English and play soccer as my hobbies.\
- 📩&nbsp; You can shoot me an email at lequocbao102000@gmail.com ! I'll try to respond as soon as I can.
+ ✍&nbsp; I usually spend time to learn a new programming language.\
+ 💼&nbsp; Currently, I'm studying Software Technology at Ho Chi Minh City University of Food Industry.\
+ ⏱&nbsp; In my free time, I learn English and play soccer.\
+ 📩&nbsp; You can shoot me an email at lequocbao102000@gmail.com !
 
    <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width='450' height='350'>
    
